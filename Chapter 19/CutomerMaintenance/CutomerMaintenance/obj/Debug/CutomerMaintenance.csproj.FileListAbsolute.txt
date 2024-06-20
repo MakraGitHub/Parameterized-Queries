@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\bin\Debug\CutomerMaintenance.exe.config
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\bin\Debug\CutomerMaintenance.exe
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\bin\Debug\CutomerMaintenance.pdb
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.frmCustomer.resources
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.exe
+C:\Users\HP\OneDrive\Desktop\Project C#\Chapter 19\CutomerMaintenance\CutomerMaintenance\obj\Debug\CutomerMaintenance.pdb
